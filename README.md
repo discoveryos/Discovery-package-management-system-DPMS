@@ -16,3 +16,4 @@ dpms --upgrade <package name>
 dpms --upgrade-all
 dpms --set-password
 dpms --update-dpms
+l
